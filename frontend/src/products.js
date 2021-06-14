@@ -23,7 +23,7 @@ const products = [
     'brand': 'Apple',
     'category': 'Bedroom Plant',
     'price': 9.99,
-    'countInStock': 7,
+    'countInStock': 0,
     'rating': 4.0,
     'numReviews': 8,
   },
